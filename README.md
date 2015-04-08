@@ -11,3 +11,6 @@ To get started:
 4. This integrates a basic Angular controller with a very basic Ionic component in a Meteor App
 5. 2 package requirements (already included in repo): ```urigo:ionic, urigo:angular```
 6. run: ```meteor```
+
+Next Up:
+1. Deploy on mobile via cordova/crosswalk
