@@ -13,4 +13,5 @@ To get started:
 6. run: ```meteor```
 
 Next Up:
+
 1. Deploy on mobile via cordova/crosswalk
