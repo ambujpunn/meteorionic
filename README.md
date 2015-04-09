@@ -14,4 +14,5 @@ To get started:
 
 Next Up:
 
-1. Deploy on mobile via cordova/crosswalk [DONE]
+1. Deploy on mobile via cordova[DONE]
+2. Deploy on mobile via crosswalk
